@@ -12,3 +12,7 @@ https://nyompersandnyompies.slack.com/
 https://soundcloud.com
 
 https://duckduckgo.com
+
+https://cube-king.repl.co
+
+https://cubechat.cube-king.repl.co
